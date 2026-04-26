@@ -56,6 +56,8 @@ Requisições para /produtos e /venda são direcionadas para o serviço de produ
 
 <img width="1107" height="782" alt="gateway-login-1" src="https://github.com/user-attachments/assets/d101fb99-41cd-4c4f-910e-a4624a81a374" />
 
+---
+
 <img width="1067" height="672" alt="gateway-login-2" src="https://github.com/user-attachments/assets/8797bdee-5e85-48bc-a59c-627f82e95422" />
 
 ---
